@@ -1,0 +1,100 @@
+PODS:
+  - AJMessage (1.2.2)
+  - Alamofire (5.2.2)
+  - BottomPopup (0.6.0)
+  - BSImagePicker (3.2.1)
+  - Cosmos (16.0.0)
+  - FAPanels (2.0.1)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.5.6)
+  - JHSpinner (0.2.1)
+  - Kingfisher (4.10.1)
+  - LXStatusAlert (1.0.0)
+  - MBProgressHUD (1.2.0)
+  - QuickLayout (3.0.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SwiftEntryKit (1.2.3):
+    - QuickLayout (= 3.0.0)
+  - SwiftMessages (8.0.0):
+    - SwiftMessages/App (= 8.0.0)
+  - SwiftMessages/App (8.0.0)
+  - TextFieldEffects (1.6.0)
+  - "UIView+Shake (1.4.0)"
+
+DEPENDENCIES:
+  - AJMessage
+  - Alamofire
+  - BottomPopup
+  - BSImagePicker (~> 3.1)
+  - Cosmos (~> 16.0)
+  - FAPanels
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - JHSpinner
+  - Kingfisher (~> 4.0)
+  - LXStatusAlert
+  - MBProgressHUD
+  - RxCocoa
+  - RxSwift
+  - SkyFloatingLabelTextField
+  - SwiftEntryKit
+  - SwiftMessages
+  - TextFieldEffects
+  - "UIView+Shake"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AJMessage
+    - Alamofire
+    - BottomPopup
+    - BSImagePicker
+    - Cosmos
+    - FAPanels
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - JHSpinner
+    - Kingfisher
+    - LXStatusAlert
+    - MBProgressHUD
+    - QuickLayout
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SkyFloatingLabelTextField
+    - SwiftEntryKit
+    - SwiftMessages
+    - TextFieldEffects
+    - "UIView+Shake"
+
+SPEC CHECKSUMS:
+  AJMessage: d6f1920c02224a117d0d5079ff8648f70deecfb1
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  BottomPopup: 1d5649a3b29396238f0e8f3c82075a7bfcf37ba7
+  BSImagePicker: 5e87fe42526efdc3fe8ea23d6e4fac9eef43ecfb
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  FAPanels: 050291ef601a1dc00fad888f83e74284cb86dd52
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JHSpinner: bf7cc91a7e0ccad6336d2b0a3429dd34e7325e65
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  LXStatusAlert: bfed15757e0004421b28b0c15f0a67963805025d
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SwiftEntryKit: 340713c2e4a6662c5149629990bf1088bf5f0389
+  SwiftMessages: 29e7975b1173fd4e8357600c6518b5a59bc607d6
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  "UIView+Shake": 055ad67721de1f74d29c0a1d464697e505dfc62f
+
+PODFILE CHECKSUM: 8b775de1196428f7a052d7d260089357b87b8713
+
+COCOAPODS: 1.5.2
